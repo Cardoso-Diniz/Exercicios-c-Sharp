@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\SENAI\c#\Exercicios dia 10.05\exercicio 6\bin\Debug\net5.0\exercicio 6.exe
+C:\Users\Admin\Desktop\SENAI\c#\Exercicios dia 10.05\exercicio 6\bin\Debug\net5.0\exercicio 6.deps.json
+C:\Users\Admin\Desktop\SENAI\c#\Exercicios dia 10.05\exercicio 6\bin\Debug\net5.0\exercicio 6.runtimeconfig.json
+C:\Users\Admin\Desktop\SENAI\c#\Exercicios dia 10.05\exercicio 6\bin\Debug\net5.0\exercicio 6.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\SENAI\c#\Exercicios dia 10.05\exercicio 6\bin\Debug\net5.0\exercicio 6.dll
+C:\Users\Admin\Desktop\SENAI\c#\Exercicios dia 10.05\exercicio 6\bin\Debug\net5.0\ref\exercicio 6.dll
+C:\Users\Admin\Desktop\SENAI\c#\Exercicios dia 10.05\exercicio 6\bin\Debug\net5.0\exercicio 6.pdb
+C:\Users\Admin\Desktop\SENAI\c#\Exercicios dia 10.05\exercicio 6\obj\Debug\net5.0\exercicio 6.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\SENAI\c#\Exercicios dia 10.05\exercicio 6\obj\Debug\net5.0\exercicio 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SENAI\c#\Exercicios dia 10.05\exercicio 6\obj\Debug\net5.0\exercicio 6.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SENAI\c#\Exercicios dia 10.05\exercicio 6\obj\Debug\net5.0\exercicio 6.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SENAI\c#\Exercicios dia 10.05\exercicio 6\obj\Debug\net5.0\exercicio 6.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SENAI\c#\Exercicios dia 10.05\exercicio 6\obj\Debug\net5.0\exercicio 6.dll
+C:\Users\Admin\Desktop\SENAI\c#\Exercicios dia 10.05\exercicio 6\obj\Debug\net5.0\ref\exercicio 6.dll
+C:\Users\Admin\Desktop\SENAI\c#\Exercicios dia 10.05\exercicio 6\obj\Debug\net5.0\exercicio 6.pdb
+C:\Users\Admin\Desktop\SENAI\c#\Exercicios dia 10.05\exercicio 6\obj\Debug\net5.0\exercicio 6.genruntimeconfig.cache
